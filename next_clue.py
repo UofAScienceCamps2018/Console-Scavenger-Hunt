@@ -26,8 +26,7 @@ def check_hint(clue, hint):
         return hint == os.popen2("grep -A 1 tactful /usr/share/dict/words")\
             [1].read().strip().split('\n')[1]
     elif (clue == 11):
-        return hint in ("-k 5 -n -r", "-k 5 -r -n", "-r -k 5 -n", "-r -n -k 5",\
-            "-n -r -k 5", "-n -k 5 -r")
+        return hint in ["i","n","yasas","Yasas"]
 
     
 

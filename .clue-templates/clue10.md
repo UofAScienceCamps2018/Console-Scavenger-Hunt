@@ -33,14 +33,13 @@ Now you can `sort random_words` to get back to alphabetical order, or
 
 #### Finding Clue 11 ####
 
-Use the command `ls -la /usr` to get a big list of files. The 5th column in 
-that list is the size of the file in bytes. Find the sort command to print the
-list of files with the largest file first, and then the rest indescending order.
-Your hint is the options you had to use. You'll need to use double quotes for
-your hint. For example, if your command was `sort -a -b -c`, your hint would
-be
+In the scavenger-hunt folder there is a file called NHL-Data.txt This file contains 
+the number of assists of each NHL player in the 2013-2014 year. You can open view
+this file using "cat [filename]". Using what you have learnt in this clue sort the 
+NHL data to determine the player with the most assists in 2013-2014.The hint will 
+be the name of the player with the most assists.
+python next_clue.py [secret] 11 [name]. 
 
-    python next_clue.py [secret] 11 "-a -b -c"
     
 
 

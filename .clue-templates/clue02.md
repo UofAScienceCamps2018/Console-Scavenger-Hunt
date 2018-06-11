@@ -1,4 +1,4 @@
-### Clue 2: The Lay of the Land ###
+### Clue 2: The Lay of the Land    ###
 
 #### `pwd` ####
 
