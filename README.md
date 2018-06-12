@@ -71,7 +71,7 @@ If you ever get lost, just do
 to return home. If you `cd` to the `clues` directory and do an `ls`, you
 will notice that there are a lot of clue directories. Most of them contain
 fake clues. Throughout our hunt we will be looking for real clues. Using
-`cd`, navigate to `clues/12345` and type `ls`. You should see a single
+`cd`, navigate to `clues/123` and type `ls`. You should see a single
 file named `clue`.
 
 #### `cat` ####
@@ -83,6 +83,6 @@ Finally we need to be able to look at our clues. First read the manpage for
 
 This should list the clue in your terminal. From now on, everything we need
 will be contained in these clue files. It's a good idea to keep track of
-all the clue folders (like `123456`) on a piece of paper. You can also do
+all the clue folders (like `123`) on a piece of paper. You can also do
 things like copy all the clue files to your home folder, or cut and paste
 the clue text into another file.
