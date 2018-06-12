@@ -31,13 +31,15 @@ this:
 Now you can `sort random_words` to get back to alphabetical order, or 
 `sort -r random_words` for reverse alphabetical order. 
 
+Using different flags in the sort command you can sort numerically. Use 
+"sort --help to find the appropriate flag. 
+
 #### Finding Clue 11 ####
 
-In the scavenger-hunt folder there is a file called NHL-Data.txt This file contains 
-the number of assists of each NHL player in the 2013-2014 year. You can open view
-this file using "cat [filename]". Using what you have learnt in this clue sort the 
-NHL data to determine the player with the most assists in 2013-2014.The hint will 
-be the name of the player with the most assists.
+In the scavenger-hunt folder, there is a file called NHL-Data.txt This file contains the number of assists of each NHL player in the 2013-2014 year. You can open view
+this file using "cat [filename]". Using what you have learned in this clue sort the 
+NHL data to determine the player with the most assists in 2013-2014. The hint
+will be the name of the player with the most assists.
 python next_clue.py [secret] 11 [name]. 
 
     
