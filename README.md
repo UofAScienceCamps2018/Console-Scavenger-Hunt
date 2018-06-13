@@ -5,12 +5,7 @@ the clues and learn how to use basic Linux commands in the process.
 
 ## Setup ##
 
-If you are using a new Linux install or Live CD, you may need to install
-Git first (`sudo apt-get install git` on Ubuntu). Open a terminal and type:
-
-    git clone https://github.com/pushingice/scavenger-hunt.git
-    cd scavenger-hunt
-
+ 
 First, choose a secret number with at least 4 digits to share with your team,
 or keep to yourself if you are working alone. Don't forget it! The secret
 number makes your clues unique, so other teams can't look over your shoulder.
