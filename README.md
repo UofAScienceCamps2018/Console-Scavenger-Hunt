@@ -5,6 +5,11 @@ the clues and learn how to use basic Linux commands in the process.
 
 ## Setup ##
 
+Open a terminal and type:
+
+    git clone https://github.com/UofAScienceCamps2018/Scavenger-Hunt.git
+    cd scavenger-hunt
+
  
 First, choose a secret number with at least 4 digits to share with your team,
 or keep to yourself if you are working alone. Don't forget it! The secret
